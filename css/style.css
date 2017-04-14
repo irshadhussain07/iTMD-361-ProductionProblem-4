@@ -1,6 +1,7 @@
 body{
 
     font-family: 'PT Sans', sans-serif;
+    background: no-repeat center/cover url("http://www.space.com/images/i/000/046/850/original/water-solar-system-galaxy.jpg");
 
 }
 .planet-table
@@ -43,4 +44,8 @@ table tr th:last-child {
 img{
   width: 80%;
   height: auto;
+}
+h1,h2,h3,h4 {
+
+  color: #fff;
 }
